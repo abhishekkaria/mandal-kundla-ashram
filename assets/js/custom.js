@@ -1,5 +1,5 @@
 function getBaseUrl() {
-    return new URL(window.location.origin);
+    return new URL(location.href);
 }		
 
 $(function(){
