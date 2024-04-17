@@ -1,5 +1,5 @@
 function getBaseUrl() {
-    return new URL(location.href);
+    return new URL(location.href.substring(0,location.href.lastIndexOf('/') + 1));
 }		
 
 $(function(){
