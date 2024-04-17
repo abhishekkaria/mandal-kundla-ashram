@@ -19,7 +19,7 @@ html {
 }
 
 body {
-  font-family: "Open Sans", sans-serif;
+  font-family: "Baloo Bhai 2", "Open Sans", sans-serif;
   font-weight: 400;
   font-size: 1rem;
   letter-spacing: 0.1px;
@@ -51,7 +51,7 @@ h3, .h3,
 h4, .h4,
 h5, .h5,
 h6, .h6 {
-  font-family: "Poppins", sans-serif;
+  font-family: "Baloo Bhai 2", "Poppins", sans-serif;
   font-weight: 700;
   margin: 0 0 1.25rem 0;
   color: #051922;
@@ -145,7 +145,7 @@ h6, .h6 {
 }
 
 p {
-  font-family: "Open Sans", sans-serif;
+  font-family: "Baloo Bhai 2", "Open Sans", sans-serif;
   font-weight: 400;
   font-size: 1rem;
   letter-spacing: 0.1px;
@@ -410,7 +410,7 @@ p:last-child {
 }
 
 a.boxed-btn {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Baloo Bhai 2", "Poppins", sans-serif;
   display: inline-block;
   background-color: #F28123;
   color: #fff;
@@ -418,7 +418,7 @@ a.boxed-btn {
 }
 
 a.bordered-btn {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Baloo Bhai 2", "Poppins", sans-serif;
   display: inline-block;
   color: #fff;
   border: 2px solid #F28123;
@@ -864,7 +864,7 @@ a.mobile-show {
 .footer-area {
   background-color: #051922;
   color: #fff;
-  padding: 150px 0;
+  padding: 50px 0;
 }
 
 h2.widget-title {
@@ -2433,7 +2433,7 @@ ul.social-link-team li a {
 }
 
 p.product-price {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Baloo Bhai 2", "Poppins", sans-serif;
   font-size: 30px;
   font-weight: 700;
   margin-bottom: 15px;
@@ -2447,7 +2447,7 @@ p.product-price span {
 }
 
 a.cart-btn {
-  font-family: 'Poppins', sans-serif;
+  font-family: "Baloo Bhai 2", "Poppins", sans-serif;
   display: inline-block;
   background-color: #F28123;
   color: #fff;
