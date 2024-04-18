@@ -27,6 +27,28 @@
   background-image: url(../img/latest-news/news-bg-6.jpg);
 }
 
+.spiritual-1 {
+  background-image: url(../img/latest-news/news-bg-1.jpg);
+}
+.spiritual-2 {
+  background-image: url(../img/latest-news/news-bg-1.jpg);
+}
+.spiritual-3 {
+  background-image: url(../img/latest-news/news-bg-1.jpg);
+}
+.spiritual-4 {
+  background-image: url(../img/latest-news/news-bg-1.jpg);
+}
+.spiritual-5 {
+  background-image: url(../img/latest-news/news-bg-1.jpg);
+}
+.spiritual-6 {
+  background-image: url(../img/latest-news/news-bg-1.jpg);
+}
+.spiritual-7 {
+  background-image: url(../img/latest-news/news-bg-1.jpg);
+}
+
 .latest-news-bg {
   height: 200px;
   background-size: cover;
@@ -88,6 +110,16 @@ p {
   height: 450px;
 }
 
+.single-artcile-maha-shivratri {
+  background-image: url(../img/festivals/maha-shivratri.jpeg);
+  height: 450px;
+}
+
+.single-artcile-spiritual {
+  background-image: url(../img/spiritual/spiritual.jpg);
+  height: 450px;
+}
+
 .pagination-wrap {
   ul {
     margin: 0;
@@ -119,7 +151,72 @@ p {
 }
 
 //Single News
-.single-artcile-bg {
+.single-artcile-maha-shivratri {
+  background-size: cover;
+  background-position: center;
+  background-color: #ddd;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+
+
+.single-artcile-ram-navmi {
+  background-size: cover;
+  background-position: center;
+  background-color: #ddd;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+
+.single-artcile-hanuman-jayanti {
+  background-size: cover;
+  background-position: center;
+  background-color: #ddd;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+
+.single-artcile-gayatri-jayanti {
+  background-size: cover;
+  background-position: center;
+  background-color: #ddd;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+
+.single-artcile-guru-purnima {
+  background-size: cover;
+  background-position: center;
+  background-color: #ddd;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+
+.single-artcile-janmashtami {
+  background-size: cover;
+  background-position: center;
+  background-color: #ddd;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+
+.single-artcile-diwali {
+  background-size: cover;
+  background-position: center;
+  background-color: #ddd;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+
+.single-artcile-navratri {
+  background-size: cover;
+  background-position: center;
+  background-color: #ddd;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+
+.single-artcile-spiritual{
   background-size: cover;
   background-position: center;
   background-color: #ddd;

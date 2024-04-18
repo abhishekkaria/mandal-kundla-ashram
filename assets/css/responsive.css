@@ -501,10 +501,43 @@
 	.featured-text p {
 	    line-height: 1.8;
 	}
-	.single-artcile-bg {
+
+	.single-artcile-maha-shivratri {
 	    height: 300px;
 	}
 
+	.single-artcile-spiritual {
+	    height: 300px;
+	}
+
+	.single-artcile-ram-navmi {
+	    height: 300px;
+	}
+
+	.single-artcile-hanuman-jayanti {
+	    height: 300px;
+	}
+
+	.single-artcile-gayatri-jayanti {
+	    height: 300px;
+	}
+	
+	.single-artcile-guru-purnima {
+	    height: 300px;
+	}
+
+	.single-artcile-janmashtami {
+	    height: 300px;
+	}
+
+	.single-artcile-diwali {
+	    height: 300px;
+	}
+
+	.single-artcile-navratri {
+	    height: 300px;
+	}
+	
 	.single-article-text h2 {
 	    font-size: 20px;
 	}
