@@ -1601,6 +1601,18 @@ div.owl-controls, .owl-controls div {
   background-image: url(../img/latest-news/news-bg-1.jpg);
 }
 
+.ram-navmi {
+  background-image: url(../img/festivals/ram-navmi-3.jpeg);
+}
+
+.hanuman-jayanti {
+  background-image: url(../img/festivals/hanuman-jayanti.jpg);
+}
+
+.gayatri-jayanti {
+  background-image: url(../img/festivals/gayatri-jayanti.jpeg);
+}
+
 .news-bg-2 {
   background-image: url(../img/latest-news/news-bg-2.jpg);
 }
@@ -1621,9 +1633,125 @@ div.owl-controls, .owl-controls div {
   background-image: url(../img/latest-news/news-bg-6.jpg);
 }
 
+.spiritual-1 {
+  background-image: url(../img/spiritual/spiritual-1.png);
+}
+
+.spiritual-2 {
+  background-image: url(../img/spiritual/spiritual-2.png);
+}
+
+.spiritual-3 {
+  background-image: url(../img/spiritual/spiritual-3.png);
+}
+
+.spiritual-4 {
+  background-image: url(../img/spiritual/spiritual-4.png);
+}
+
+.spiritual-5 {
+  background-image: url(../img/spiritual/spiritual-5.png);
+}
+
+.spiritual-6 {
+  background-image: url(../img/spiritual/spiritual-6.png);
+}
+
+.spiritual-7 {
+  background-image: url(../img/spiritual/spiritual-7.png);
+}
+
+.social-1 {
+  background-image: url(../img/social/social-1.png);
+}
+
+.social-2 {
+  background-image: url(../img/social/social-2.png);
+}
+
+.social-3 {
+  background-image: url(../img/social/social-3.png);
+}
+
+.social-4 {
+  background-image: url(../img/social/social-4.png);
+}
+
+.social-5 {
+  background-image: url(../img/social/social-5.png);
+}
+
+.social-6 {
+  background-image: url(../img/social/social-6.png);
+}
+
+.social-7 {
+  background-image: url(../img/social/social-7.png);
+}
+
+.social-8 {
+  background-image: url(../img/social/social-8.png);
+}
+
+.health-1 {
+  background-image: url(../img/health/health-1.png);
+}
+
+.health-2 {
+  background-image: url(../img/health/health-2.png);
+}
+
+.health-3 {
+  background-image: url(../img/health/health-3.png);
+}
+
+.health-4 {
+  background-image: url(../img/health/health-4.png);
+}
+
+.health-5 {
+  background-image: url(../img/health/health-5.png);
+}
+
+.health-6 {
+  background-image: url(../img/health/health-6.png);
+}
+
+.education-1 {
+  background-image: url(../img/education/education-1.png);
+}
+
+.education-2 {
+  background-image: url(../img/education/education-2.png);
+}
+
+.education-3 {
+  background-image: url(../img/education/education-3.png);
+}
+
+.education-4 {
+  background-image: url(../img/education/education-4.png);
+}
+
+.environment-1 {
+  background-image: url(../img/environment/environment-1.png);
+}
+
+.environment-2 {
+  background-image: url(../img/environment/environment-2.png);
+}
+
+.environment-3 {
+  background-image: url(../img/environment/environment-3.png);
+}
+
+.environment-4 {
+  background-image: url(../img/environment/environment-4.png);
+}
+
 .latest-news-bg {
   height: 200px;
-  background-size: cover;
+  background-size: 95%;
   background-position: center;
   border-radius: 10px;
   background-color: #ddd;
@@ -1675,8 +1803,45 @@ p.excerpt {
   margin-bottom: 30px;
 }
 
-.single-artcile-bg {
-  background-image: url(../img/latest-news/news-bg-3.jpg);
+.single-artcile-ram-navmi {
+  background-image: url(../img/festivals/ram-navmi-3.jpeg);
+  height: 450px;
+}
+
+.single-artcile-hanuman-jayanti {
+  background-image: url(../img/festivals/hanuman-jayanti.jpg);
+  height: 450px;
+}
+.single-artcile-gayatri-jayanti {
+  background-image: url(../img/festivals/gayatri-jayanti.jpeg);
+  height: 450px;
+}
+
+.single-artcile-guru-purnima {
+  background-image: url(../img/festivals/guru-purnima.jpg);
+  height: 450px;
+}
+
+.single-artcile-janmashtami {
+  background-image: url(../img/festivals/janmashtami.jpg);
+  height: 450px;
+}
+
+.single-artcile-diwali {
+  background-image: url(../img/festivals/diwali.jpg);
+  height: 450px;
+}
+
+.single-artcile-navratri {
+  background-image: url(../img/festivals/navratri.jpg);
+  height: 450px;
+}
+.single-artcile-maha-shivratri {
+  background-image: url(../img/festivals/maha-shivratri.jpeg);
+  height: 450px;
+}
+.single-artcile-spiritual {
+  background-image: url(../img/spiritual/spiritual.jpg);
   height: 450px;
 }
 
@@ -1711,6 +1876,75 @@ p.excerpt {
 }
 
 .single-artcile-bg {
+  background-size: cover;
+  background-position: center;
+  background-color: #ddd;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+
+.single-artcile-maha-shivratri {
+  background-size: cover;
+  background-position: center;
+  background-color: #ddd;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+.single-artcile-spiritual {
+  background-size: cover;
+  background-position: center;
+  background-color: #ddd;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+
+.single-artcile-ram-navmi {
+  background-size: cover;
+  background-position: center;
+  background-color: #ddd;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+
+.single-artcile-hanuman-jayanti {
+  background-size: cover;
+  background-position: center;
+  background-color: #ddd;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+.single-artcile-gayatri-jayanti {
+  background-size: cover;
+  background-position: center;
+  background-color: #ddd;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+
+.single-artcile-guru-purnima {
+  background-size: cover;
+  background-position: center;
+  background-color: #ddd;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+
+.single-artcile-janmashtami {
+  background-size: cover;
+  background-position: center;
+  background-color: #ddd;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+
+.single-artcile-diwali {
+  background-size: cover;
+  background-position: center;
+  background-color: #ddd;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+.single-artcile-navratri {
   background-size: cover;
   background-position: center;
   background-color: #ddd;
@@ -2459,6 +2693,12 @@ a.cart-btn i {
 }
 
 .single-product-img img {
+  border-radius: 5px;
+  -webkit-box-shadow: 0 0 20px #ddd;
+  box-shadow: 0 0 20px #ddd;
+}
+
+.single-product-img {
   border-radius: 5px;
   -webkit-box-shadow: 0 0 20px #ddd;
   box-shadow: 0 0 20px #ddd;
