@@ -1845,6 +1845,20 @@ p.excerpt {
   height: 450px;
 }
 
+.single-artcile-gayatri-tapobhumi {
+  background-image: url(../img/hero-bg-2.jpg);
+  height: 450px;
+}
+
+.single-artcile-bachuada {
+  background-image: url(../img/bachuada.jpg);
+  height: 450px;
+}
+
+.single-artcile-bhaishri {
+  background-image: url(../img/bhaishri.jpg);
+  height: 450px;
+}
 .pagination-wrap {
   margin-top: 40px;
 }
@@ -1945,6 +1959,30 @@ p.excerpt {
   margin-bottom: 20px;
 }
 .single-artcile-navratri {
+  background-size: cover;
+  background-position: center;
+  background-color: #ddd;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+
+.single-artcile-gayatri-tapobhumi {
+  background-size: cover;
+  background-position: center;
+  background-color: #ddd;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+
+.single-artcile-bachuada {
+  background-size: cover;
+  background-position: center;
+  background-color: #ddd;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+
+.single-artcile-bhaishri {
   background-size: cover;
   background-position: center;
   background-color: #ddd;
